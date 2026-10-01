@@ -101,3 +101,7 @@ MIT License - Feel free to use for personal or commercial projects.
 ---
 
 ⭐ If this helped you, please star the repo!
+
+---
+
+Built by [Adem Batur](https://github.com/adembtr) · License: [MIT](LICENSE)
